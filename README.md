@@ -1,5 +1,9 @@
-## Hi there 👋
+![TomCruise-17](img/github-header-banner.png)
+#### Skills
+###### [![My Skills](https://skillicons.dev/icons?i=html,js,css,cpp,nodejs)](https://skillicons.dev)
 
+#### Connect With Me❤️
+##### ![https://www.facebook.com/share/1Asuwe425f/](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white) ![https://play.google.com/store/apps/details?id=org.thunderdog.challegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <!--
 **TomCruise-17/TomCruise-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![Anime](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGk0c3BrYjFzenA1OTV0MXFibDljdTNrNDU3c3AycW90Zzg0dXg5diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HyOOyynWxMxig/giphy.gif)
+
